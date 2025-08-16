@@ -64,6 +64,7 @@ Our vision is to **revolutionize digital recognition** by building the foundatio
 **Explorer Link**: [View Contract on Aptos Explorer](https://explorer.aptoslabs.com/account/0x21f260bc482287686cd584a9a7e28f0b2df146497fa6a9dfa706c8a39cb1df41/modules?network=devnet)
 
 **Deployment Transaction**: `0x8dfdf6421741fe8259bcada8bbf5d2f055a39d1668c632d8ed00176432c2d4b2`
+<img width="1902" height="898" alt="image" src="https://github.com/user-attachments/assets/a8c4d817-358e-459a-ae4c-ceac612eee22" />
 
 ---
 
@@ -76,7 +77,7 @@ Our vision is to **revolutionize digital recognition** by building the foundatio
 
 ### Installation
 ```bash
-git clone <your-repo>
+git clone https://github.com/JainamOswal18/my-aptos-dapp.git
 cd aptos-kudos-board
 npm install
 npm run dev
